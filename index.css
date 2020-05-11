@@ -1,5 +1,13 @@
-nav{
+body{
+    background-color: lightblue;
+}
+
+.navbar{
     background-color: darkgreen;
     color: white;
-    font-family: Arial;
+}
+
+.container-fluid{
+    background-color: lightgreen;
+    color: black;
 }
