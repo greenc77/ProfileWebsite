@@ -10,3 +10,12 @@ body{
     background-color: lightgreen;
     color: black;
 }
+
+footer{
+    background-color: yellow;
+}
+
+.profile-pic{
+    image-orientation: right;
+    text-align: center;
+}
