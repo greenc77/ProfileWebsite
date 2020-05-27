@@ -29,3 +29,14 @@ footer .jumbotron{
 .jumbotron{
     margin: 0px;
 }
+
+.slide-container{
+    width: 800px;
+    height: 600px;
+}
+
+.image-container{
+    width: 4000px;
+    height: 600px;
+    position: relative;
+}
